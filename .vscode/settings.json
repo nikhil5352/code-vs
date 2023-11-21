@@ -1,0 +1,5 @@
+{
+    "[jsonc]": {
+        "editor.defaultFoldingRangeProvider": "vscode.git"
+    }
+}
